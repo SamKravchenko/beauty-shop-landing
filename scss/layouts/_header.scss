@@ -1,0 +1,22 @@
+.header {
+  &__menu {
+    &__link {
+      color: inherit;
+    }
+  }
+  &__social {
+    &__link {
+      fill: var(--color-brand-dark);
+    }
+  }
+
+  &__burger {
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    fill: var(--color-brand-light);
+    cursor: pointer;
+  }
+}

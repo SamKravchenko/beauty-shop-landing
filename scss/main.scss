@@ -1,4 +1,21 @@
 @use "./utils/variables";
 @use "./utils/fonts";
+@use "./utils/texts";
 
 @use "./base";
+
+@use "./components/logo";
+@use "./components/link";
+@use "./components/social";
+@use "./components/button";
+@use "./components/carousel-button";
+@use "./components/section";
+@use "./components/service-card";
+
+@use "./layouts/header";
+@use "./layouts/hero-section";
+@use "./layouts/about-section";
+@use "./layouts/advantages-section";
+@use "./layouts/services-section";
+@use "./layouts/contact-section";
+@use "./layouts/footer";

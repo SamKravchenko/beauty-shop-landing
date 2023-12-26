@@ -1,0 +1,8 @@
+.advantages-section {
+  &__item {
+    fill: var(--color-brand-normal);
+    &__text {
+      line-height: 1.3;
+    }
+  }
+}

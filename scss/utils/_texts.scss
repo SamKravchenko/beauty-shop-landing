@@ -1,0 +1,13 @@
+.text {
+  &__brand {
+    color: var(--color-brand-normal);
+  }
+
+  &__capitalize {
+    text-transform: capitalize;
+  }
+
+  &__bold {
+    font-weight: 700;
+  }
+}

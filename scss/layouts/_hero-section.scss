@@ -1,0 +1,22 @@
+.hero-section {
+  &__inner {
+    text-align: center;
+  }
+
+  &__suptitle {
+    font-size: 12px;
+  }
+
+  &__title {
+    font-family: "Play";
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 0.85;
+    color: var(--color-brand-normal);
+    text-transform: capitalize;
+  }
+  &__text {
+    font-size: 11px;
+    line-height: 1.6;
+  }
+}

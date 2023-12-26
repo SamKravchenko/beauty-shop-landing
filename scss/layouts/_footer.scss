@@ -1,0 +1,10 @@
+.footer {
+  &__link {
+    color: var(--color-brand-light);
+  }
+
+  &__copyright {
+    font-size: 12px;
+    color: var(--color-primary-normal);
+  }
+}
